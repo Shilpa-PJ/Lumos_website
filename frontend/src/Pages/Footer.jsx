@@ -40,17 +40,21 @@ const Footer = () => {
             Learn Something New
           </Heading>
           <br />
-          <Link fontSize="13.5px">Learn a Language</Link>
+          <Link fontSize="13.5px">Learn Digital Marketing</Link>
           <br />
-          <Link fontSize="13.5px">Learn Accounting</Link>
+          <Link fontSize="13.5px">Learn Artificial Intelligence</Link>
           <br />
-          <Link fontSize="13.5px">Learn Coding</Link>
+          <Link fontSize="13.5px">Learn Robotics</Link>
           <br />
-          <Link fontSize="13.5px">Learn Copywriting</Link>
+          <Link fontSize="13.5px">Learn Digital Marketing Essentials</Link>
           <br />
-          <Link fontSize="13.5px">Learn HR</Link>
+          <Link fontSize="13.5px">Learn Digital Marketing Specialisation</Link>
           <br />
-          <Link fontSize="13.5px">Learn Public Relations</Link>
+          <Link fontSize="13.5px">Learn Fundamental of Digital Marketing</Link>
+          <br />
+          <Link fontSize="13.5px">Learn Machine Learning</Link>
+          <br />
+          {/* <Link fontSize="13.5px">Learn Public Relations</Link>
           <br />
           <Link fontSize="13.5px">Boulder MS Data Science</Link>
           <br />
@@ -58,7 +62,7 @@ const Footer = () => {
           <br />
           <Link fontSize="13.5px">Illinois MS Computer Science</Link>
           <br />
-          <Link fontSize="13.5px">UMich MS in Applied Data Science</Link>
+          <Link fontSize="13.5px">UMich MS in Applied Data Science</Link> */}
         </Box>
 
         <Box
@@ -77,11 +81,13 @@ const Footer = () => {
             Popular Topics
           </Heading>
           <br />
-          <Link fontSize="13.5px">Accounting</Link>
+          <Link fontSize="13.5px">Digital Marketing</Link>
           <br />
-          <Link fontSize="13.5px">Cybersecurity</Link>
+          <Link fontSize="13.5px">Artificial Intelligence</Link>
           <br />
-          <Link fontSize="13.5px">Data Analysis</Link>
+          <Link fontSize="13.5px">Robotics</Link>
+          <br />
+          <Link fontSize="13.5px">Machine Learing</Link>
           <br />
           <Link fontSize="13.5px">Data Science</Link>
           <br />
@@ -89,11 +95,9 @@ const Footer = () => {
           <br />
           <Link fontSize="13.5px">Google</Link>
           <br />
-          <Link fontSize="13.5px">Machine Learning</Link>
-          <br />
-          <Link fontSize="13.5px">Project Management</Link>
-          <br />
           <Link fontSize="13.5px">Python</Link>
+          <br />
+          <Link fontSize="13.5px">React JS</Link>
           <br />
           <Link fontSize="13.5px">SQL</Link>
         </Box>
@@ -111,28 +115,28 @@ const Footer = () => {
           }}
         >
           <Heading as="h6" size="md" fontWeight="bold">
-            Popular Certificates
+            Certificates
           </Heading>
           <br />
-          <Link fontSize="13.5px">Google Data Analytics</Link>
+          <Link fontSize="13.5px">Digital Marketing Essentials Internship Certificate</Link>
           <br />
-          <Link fontSize="13.5px">Google Digital Marketing & Ecommerce</Link>
+          <Link fontSize="13.5px">Digital Marketing Specialist Certification- Al Ameen Edathala</Link>
           <br />
-          <Link fontSize="13.5px">Google IT Automation with Python</Link>
+          <Link fontSize="13.5px">Certified Digital Marketing Specialist Program - Adi Sankara</Link>
           <br />
-          <Link fontSize="13.5px">Google IT Support</Link>
+          <Link fontSize="13.5px">Fundamentals of Digital Marketing</Link>
           <br />
-          <Link fontSize="13.5px">Google Project Management</Link>
+          <Link fontSize="13.5px">Digital Marketing Certificate Program </Link>
           <br />
-          <Link fontSize="13.5px">Google UX Design</Link>
+          <Link fontSize="13.5px">Artificial Intelligenct and Robotics</Link>
           <br />
-          <Link fontSize="13.5px">IBM Data Analyst</Link>
+          {/* <Link fontSize="13.5px">Machine Learning</Link>
           <br />
           <Link fontSize="13.5px">IBM Data Science</Link>
           <br />
           <Link fontSize="13.5px">Intuit Bookkeeping</Link>
           <br />
-          <Link fontSize="13.5px">Meta Front-End Developer</Link>
+          <Link fontSize="13.5px">Meta Front-End Developer</Link> */}
         </Box>
 
         <Box
@@ -152,40 +156,39 @@ const Footer = () => {
           </Heading>
           <br />
           <Link fontSize="13.5px">
-            A Comprehensive Guide to Becoming a Data Analyst
+          Advance Your Career with Infinio's Digital Marketing Program, Leveraging the Power of Gen AI.
           </Link>
           <br />
           <Link fontSize="13.5px">
-            Advance Your Career With A Cybersecurity Certification
+            Advance Your Career With our 2-year Digital Marketing Mastery Program for a transformative journey.
           </Link>
           <br />
-          <Link fontSize="13.5px">Get Your Data Analytics Certification</Link>
+          <Link fontSize="13.5px">Certificate Program: AI and Robotics Concepts & Applications in four semesters, equipping students with essential skills.</Link>
           <br />
+          {/* <Link fontSize="13.5px">
+            How to Break into the Field Machine Learning and Problem Solving
+          </Link>
+          <br /> */}
           <Link fontSize="13.5px">
-            How to Break into the Field of Data Analysis
+          Join our internship program for comprehensive training in SEO, PPC, social media, and more with hands-on experience.
           </Link>
           <br />
-          <Link fontSize="13.5px">
-            Jumpstart Your Data Career with a SQL Certification
-          </Link>
-          <br />
-          <Link fontSize="13.5px">Learn How to Become PMP Certified</Link>
+          <Link fontSize="13.5px">Al Ameen Edathala's Digital Marketing Specialist Certification covers essential aspects of digital marketing in a comprehensive program.</Link>
           <br />
           <Link fontSize="13.5px">
-            Start Your Career with CAPM Certification
-          </Link>
-          <br />
-          <Link fontSize="13.5px">
-            Understanding the Role and Responsibilities of a Scrum Master
+          Join Adi Sankara's May 2023 program for comprehensive training in digital marketing: SEO, SEM, content, social media, and analytics.
           </Link>
           <br />
           <Link fontSize="13.5px">
+          Digital Marketing Fundamentals: Core principles and strategies for online product/service promotion.          </Link>
+          <br />
+          {/* <Link fontSize="13.5px">
             Unlock Your Potential with a PMI Certification
           </Link>
           <br />
           <Link fontSize="13.5px">
             What You Should Know About CompTIA A+ Certification
-          </Link>
+          </Link> */}
         </Box>
 
         <Box
@@ -201,16 +204,16 @@ const Footer = () => {
           }}
         >
           <Heading as="h6" size="md" fontWeight="bold">
-            Coursera
+            Thrissur Office
           </Heading>
           <br />
-          <Link fontSize="13.5px">About</Link>
+          <Link fontSize="13.5px">Vimala Building,</Link>
           <br />
-          <Link fontSize="13.5px">What We Offer</Link>
+          <Link fontSize="13.5px">Near St. Thomas' College</Link>
           <br />
-          <Link fontSize="13.5px">Leadership</Link>
+          <Link fontSize="13.5px">Thrissur</Link>
           <br />
-          <Link fontSize="13.5px">Careers</Link>
+          {/* <Link fontSize="13.5px">Careers</Link>
           <br />
           <Link fontSize="13.5px">Catalog</Link>
           <br />
@@ -234,7 +237,7 @@ const Footer = () => {
           <br />
           <Link fontSize="13.5px">Free Courses</Link>
           <br />
-          <Link fontSize="13.5px">All Courses</Link>
+          <Link fontSize="13.5px">All Courses</Link> */}
         </Box>
 
         <Box
@@ -250,22 +253,22 @@ const Footer = () => {
           }}
         >
           <Heading as="h6" size="md" fontWeight="bold">
-            Community
+            Kochi Office
           </Heading>
           <br />
-          <Link fontSize="13.5px">Learners</Link>
+          <Link fontSize="13.5px">METAVALLY TBI</Link>
           <br />
-          <Link fontSize="13.5px">Partners</Link>
+          <Link fontSize="13.5px">Aluva,</Link>
           <br />
-          <Link fontSize="13.5px">Beta Testers</Link>
+          <Link fontSize="13.5px">Ernakulam</Link>
           <br />
-          <Link fontSize="13.5px">Translators</Link>
+          {/* <Link fontSize="13.5px">Translators</Link>
           <br />
           <Link fontSize="13.5px">Blog</Link>
           <br />
           <Link fontSize="13.5px">Tech Blog</Link>
           <br />
-          <Link fontSize="13.5px">Teaching Center</Link>
+          <Link fontSize="13.5px">Teaching Center</Link> */}
         </Box>
 
         <Box
@@ -281,18 +284,18 @@ const Footer = () => {
           }}
         >
           <Heading as="h6" size="md" fontWeight="bold">
-            More
+            Dubai Office
           </Heading>
           <br />
-          <Link fontSize="13.5px">Press</Link>
+          <Link fontSize="13.5px">Jebel Ali</Link>
           <br />
-          <Link fontSize="13.5px">Investors</Link>
+          <Link fontSize="13.5px">Dubai</Link>
           <br />
-          <Link fontSize="13.5px">Terms</Link>
+          <Link fontSize="13.5px">+971-0556259175</Link>
           <br />
           <Link fontSize="13.5px">Privacy</Link>
           <br />
-          <Link fontSize="13.5px">Help</Link>
+          {/* <Link fontSize="13.5px">Help</Link>
           <br />
           <Link fontSize="13.5px">Accessibility</Link>
           <br />
@@ -304,10 +307,10 @@ const Footer = () => {
           <br />
           <Link fontSize="13.5px">Affiliates</Link>
           <br />
-          <Link fontSize="13.5px">Modern Slavery Statement</Link>
+          <Link fontSize="13.5px">Modern Slavery Statement</Link> */}
         </Box>
 
-        <Box
+        {/* <Box
           pl={{
             lg: "25px",
             md: "15px",
@@ -361,7 +364,8 @@ const Footer = () => {
               alt="Certified"
             />
           </Flex>
-        </Box>
+        </Box> */}
+        
       </Grid>
       <Flex
         mt={15}
@@ -385,7 +389,7 @@ const Footer = () => {
         <Box>
           {" "}
           <Text fontSize="13.5px">
-            © 2023 Coursera Inc. All rights reserved.
+            © 2024 Infinio Technology Solutions. All rights reserved.
           </Text>
         </Box>
         <Flex spacing={4} overflow='hidden'>
