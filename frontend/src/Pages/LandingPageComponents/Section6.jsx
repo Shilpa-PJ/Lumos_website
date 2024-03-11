@@ -52,7 +52,7 @@ const Section6 = () => {
             lg: "45 px",
           }}
         >
-          Learner outcomes on <b style={{ color: "#0056d2" }}>Lumos</b>
+          Learner outcomes on <b style={{ color: "#0056d2" }}>Learn.Infinio</b>
         </Text>
         <Text
           fontFamily={"poppins"}
@@ -62,7 +62,7 @@ const Section6 = () => {
             lg: "16px",
           }}
         >
-        <span>"Lumos is an innovative online learning platform that combines educational content with<b> gamification techniques to enhance student engagement and academic performance</b>. Our platform offers a diverse range of interactive learning materials across various subjects, tailored to meet the needs of students at different levels of education.Through gamified activities, quizzes, challenges, and rewards systems, Lumos aims to make learning more immersive, enjoyable, and effective."</span> 
+        <span>"Learn.Infinio is an innovative online learning platform that combines educational content with<b> gamification techniques to enhance student engagement and academic performance</b>. Our platform offers a diverse range of interactive learning materials across various subjects, tailored to meet the needs of students at different levels of education.Through gamified activities, quizzes, challenges, and rewards systems, Lumos aims to make learning more immersive, enjoyable, and effective."</span> 
         </Text>
         <Flex mt='15px' >
           <Button
