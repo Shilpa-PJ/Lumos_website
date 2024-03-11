@@ -62,10 +62,7 @@ const Section6 = () => {
             lg: "16px",
           }}
         >
-          According to the latest findings from Arivu's 2023 report,{" "}
-          <span>
-            <b>an impressive 87% of learners have reported tangible career benefits.</b>
-          </span> These include promotions, enhanced job performance, successful job transitions, increased employability, and skill development. Arivu's extensive curriculum and industry-recognized certifications have played a pivotal role in facilitating the professional growth of learners, equipping them to thrive in today's fiercely competitive job landscape."
+        <span>"Lumos is an innovative online learning platform that combines educational content with<b> gamification techniques to enhance student engagement and academic performance</b>. Our platform offers a diverse range of interactive learning materials across various subjects, tailored to meet the needs of students at different levels of education.Through gamified activities, quizzes, challenges, and rewards systems, Lumos aims to make learning more immersive, enjoyable, and effective."</span> 
         </Text>
         <Flex mt='15px' >
           <Button
