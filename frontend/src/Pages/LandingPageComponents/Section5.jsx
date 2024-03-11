@@ -24,7 +24,7 @@ const Section5 = () => {
           }}
           fontWeight={"semibold"}
         >
-          Explore Coursera
+          Explore Our Courses
         </Text>
       </Flex>
       <Flex>
@@ -64,7 +64,7 @@ const Section5 = () => {
             </Flex>
             <Flex justifyContent="center" direction="column">
               <Text fontSize="12px" fontFamily="poppins" fontWeight="semibold">
-                Data Science
+                Coures Archives
               </Text>
 
               <Text
@@ -73,7 +73,7 @@ const Section5 = () => {
                 fontFamily="poppins"
                 fontWeight="semibold"
               >
-                425 Courses
+                4 Courses
               </Text>
             </Flex>
           </Flex>
@@ -96,7 +96,7 @@ const Section5 = () => {
             </Flex>
             <Flex justifyContent="center" direction="column">
               <Text fontSize="12px" fontFamily="poppins" fontWeight="semibold">
-                Business
+                Digital Marketing Mastery Program
               </Text>
 
               <Text
@@ -105,7 +105,7 @@ const Section5 = () => {
                 fontFamily="poppins"
                 fontWeight="semibold"
               >
-                1395 Courses
+                2 Courses
               </Text>
             </Flex>
           </Flex>
@@ -128,7 +128,7 @@ const Section5 = () => {
             </Flex>
             <Flex justifyContent="center" direction="column">
               <Text fontSize="12px" fontFamily="poppins" fontWeight="semibold">
-                Computer Science
+                Robotics
               </Text>
 
               <Text
@@ -137,7 +137,7 @@ const Section5 = () => {
                 fontFamily="poppins"
                 fontWeight="semibold"
               >
-                668 Courses
+                1 Courses
               </Text>
             </Flex>
           </Flex>
@@ -160,7 +160,7 @@ const Section5 = () => {
             </Flex>
             <Flex justifyContent="center" direction="column">
               <Text fontSize="12px" fontFamily="poppins" fontWeight="semibold">
-                Health
+                Digitial Marketing Essentials:
               </Text>
 
               <Text
@@ -169,7 +169,7 @@ const Section5 = () => {
                 fontFamily="poppins"
                 fontWeight="semibold"
               >
-                471 Courses
+                Internship Program
               </Text>
             </Flex>
           </Flex>
@@ -192,7 +192,7 @@ const Section5 = () => {
             </Flex>
             <Flex justifyContent="center" direction="column">
               <Text fontSize="12px" fontFamily="poppins" fontWeight="semibold">
-                Social Sciences
+              Digital Marketing Specialist Certification
               </Text>
 
               <Text
@@ -201,7 +201,7 @@ const Section5 = () => {
                 fontFamily="poppins"
                 fontWeight="semibold"
               >
-                300 Courses
+                Al Ameen Edathala
               </Text>
             </Flex>
           </Flex>
@@ -224,7 +224,7 @@ const Section5 = () => {
             </Flex>
             <Flex justifyContent="center" direction="column">
               <Text fontSize="12px" fontFamily="poppins" fontWeight="semibold">
-                Personal Development
+              Certified Digital Marketing Specialist Program
               </Text>
 
               <Text
@@ -233,7 +233,7 @@ const Section5 = () => {
                 fontFamily="poppins"
                 fontWeight="semibold"
               >
-                666 Courses
+                Adi Sankara - May 2023
               </Text>
             </Flex>
           </Flex>
@@ -256,7 +256,7 @@ const Section5 = () => {
             </Flex>
             <Flex justifyContent="center" direction="column">
               <Text fontSize="12px" fontFamily="poppins" fontWeight="semibold">
-                Arts and Humanities
+              Fundamentals of Digital Marketing
               </Text>
 
               <Text
@@ -265,7 +265,7 @@ const Section5 = () => {
                 fontFamily="poppins"
                 fontWeight="semibold"
               >
-                338 Courses
+                1 Course
               </Text>
             </Flex>
           </Flex>
@@ -288,7 +288,7 @@ const Section5 = () => {
             </Flex>
             <Flex justifyContent="center" direction="column">
               <Text fontSize="12px" fontFamily="poppins" fontWeight="semibold">
-                Physical Science and Engineering
+              Digital Marketing Certificate Program 
               </Text>
 
               <Text
@@ -297,7 +297,7 @@ const Section5 = () => {
                 fontFamily="poppins"
                 fontWeight="semibold"
               >
-                413 Courses
+                BBA 2022 Batch
               </Text>
             </Flex>
           </Flex>
@@ -320,7 +320,7 @@ const Section5 = () => {
             </Flex>
             <Flex justifyContent="center" direction="column">
               <Text fontSize="12px" fontFamily="poppins" fontWeight="semibold">
-                Language Learning
+              Digital Marketing Certificate Program
               </Text>
 
               <Text
@@ -329,7 +329,7 @@ const Section5 = () => {
                 fontFamily="poppins"
                 fontWeight="semibold"
               >
-                150 Courses
+                BBA 2023 Batch
               </Text>
             </Flex>
           </Flex>
@@ -352,7 +352,7 @@ const Section5 = () => {
             </Flex>
             <Flex justifyContent="center" direction="column">
               <Text fontSize="12px" fontFamily="poppins" fontWeight="semibold">
-                Information Technology
+              Artificial Intellignce and Robotics
               </Text>
 
               <Text
@@ -361,11 +361,11 @@ const Section5 = () => {
                 fontFamily="poppins"
                 fontWeight="semibold"
               >
-                145 Courses
+                1 Course
               </Text>
             </Flex>
           </Flex>
-          <Flex
+          {/* <Flex
             w="100%"
             h="20"
             gap={2}
@@ -397,7 +397,7 @@ const Section5 = () => {
                 70 Courses
               </Text>
             </Flex>
-          </Flex>
+          </Flex> */}
         </Grid>
       </Flex>
     </Flex>
