@@ -117,7 +117,7 @@ const Navbar = () => {
                 _hover={{ color: "#003e9c", textDecoration: "underline" }}
                 href="#"
               >
-                Find your New Career
+                {/* Find your New Career */}
               </Link>
             </Box>
             <Box mr={4}>
@@ -125,7 +125,7 @@ const Navbar = () => {
                 _hover={{ color: "#003e9c", textDecoration: "underline" }}
                 href="#"
               >
-                For Enterprise
+                {/* For Enterprise */}
               </Link>
             </Box>
             <Box mr={4}>
@@ -133,7 +133,7 @@ const Navbar = () => {
                 _hover={{ color: "#003e9c", textDecoration: "underline" }}
                 href="#"
               >
-                For Universities
+                {/* For Universities */}
               </Link>
             </Box>
             <Box mr={4}>
