@@ -27,9 +27,9 @@ const Section2 = () => {
           md: "xl",
         }}
       >
-        We collaborate with{" "}
+        {/* We collaborate with{" "} */}
         <Link color="#0056d2" href="#" fontWeight="bold">
-          300+ leading universities and companies
+          We Have 27 Companies
         </Link>
       </Text>
       <Grid templateColumns={`repeat(${columnCount}, 1fr)`} gap={6}>
