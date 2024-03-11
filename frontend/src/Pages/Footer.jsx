@@ -213,6 +213,8 @@ const Footer = () => {
           <br />
           <Link fontSize="13.5px">Thrissur</Link>
           <br />
+          <Link fontSize="13.5px">+91 - 9745450618, +91 - 8547636638</Link>
+          <br />
           {/* <Link fontSize="13.5px">Careers</Link>
           <br />
           <Link fontSize="13.5px">Catalog</Link>
@@ -261,6 +263,8 @@ const Footer = () => {
           <Link fontSize="13.5px">Aluva,</Link>
           <br />
           <Link fontSize="13.5px">Ernakulam</Link>
+          <br />
+          <Link fontSize="13.5px">+91 - 9496839168</Link>
           <br />
           {/* <Link fontSize="13.5px">Translators</Link>
           <br />
