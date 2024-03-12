@@ -36,7 +36,7 @@ const Section1 = () => {
           }}
           fontWeight="semibold"
         >
-          <Text fontSize='2rem' color="#0056d2" display='inline'>Learn.Infinio</Text> Where Educators and Students Connect Seamlessly Online. By adding Gamification and Leaderboard in learning our platform provide a gamified experience to the students.Teachers craft personalized courses for various subjects and grades, while students explore and purchase courses tailored to their needs. Empowering both educators and learners, Lumos revolutionizes online education.
+          <Text fontSize='2rem' color="#0056d2" display='inline'>Learn.Infinio</Text> Where Educators and Students Connect Seamlessly Online. By adding Gamification and Leaderboard in learning our platform provide a gamified experience to the students.Teachers craft personalized courses for various subjects and grades, while students explore and purchase courses tailored to their needs. Empowering both educators and learners, Learn.Infinio revolutionizes online education.
         </Text>
         <Flex
           gap={30}

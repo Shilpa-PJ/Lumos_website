@@ -65,7 +65,7 @@ const Navbar = () => {
               _hover={{ cursor: "pointer" }}
               onClick={home}
             >
-              AṞIVU
+              Learn.Infinio
             </Text>
           </Box>
         </Flex>
@@ -164,7 +164,7 @@ const Navbar = () => {
                 _hover={{ color: "#003e9c", textDecoration: "underline" }}
                 href="/new-career"
               >
-                Find your New Career
+                {/* Find your New Career */}
               </Link>
             </Box>
             <Box mr={4}>
@@ -172,7 +172,7 @@ const Navbar = () => {
                 _hover={{ color: "#003e9c", textDecoration: "underline" }}
                 href="/enterprise"
               >
-                For Enterprise
+                {/* For Enterprise */}
               </Link>
             </Box>
             <Box mr={4}>
@@ -180,7 +180,7 @@ const Navbar = () => {
                 _hover={{ color: "#003e9c", textDecoration: "underline" }}
                 href="/universities"
               >
-                For Universities
+                {/* For Universities */}
               </Link>
             </Box>
             {/* <Box mr={4}>

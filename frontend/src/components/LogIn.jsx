@@ -112,7 +112,7 @@ const Login = () => {
       >
         <Box w={{ base: "90%", sm: "80%", md: "40%", lg: "30%" }}>
           <Box mt='15px'>
-            <Heading size="md">Log in to your Aṟivu Account</Heading>
+            <Heading size="md">Log in to your Learn.Infinio Account</Heading>
           </Box>
           {/* 2nd box  */}
           <Box mt="35px">

@@ -25,7 +25,7 @@ const CourseComponent = () => {
       </Stack>
       <Stack spacing={4} mb={4}>
         <Heading as="h2" size="lg">
-          Top courses in Business
+          Top courses in Digital Marketing
         </Heading>
         <Wrap spacing={4}>
           <LandingPageCarousel />
@@ -33,20 +33,20 @@ const CourseComponent = () => {
       </Stack>
       <Stack spacing={4} mb={4}>
         <Heading as="h2" size="lg">
-          Top courses in IT & Software
+          Top courses Computer Science
         </Heading>
         <Wrap spacing={4}>
           <LandingPageCarousel />
         </Wrap>
       </Stack>
-      <Stack spacing={4} mb={4}>
+      {/* <Stack spacing={4} mb={4}>
         <Heading as="h2" size="lg">
           Top courses in Personal Development
         </Heading>
         <Wrap spacing={4}>
           <LandingPageCarousel />
         </Wrap>
-      </Stack>
+      </Stack> */}
     </Box>
   );
 };

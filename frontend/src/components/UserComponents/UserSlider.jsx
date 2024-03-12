@@ -33,12 +33,12 @@ const UserSlider = () => {
   ];
 
   const indexDescription = [
-    "Arivu encourages collaborative group studies, creating a vibrant learning environment where students can connect and learn together. It offers a versatile platform for educators to share their knowledge, helping students excel academically.",
-    "Secure your degree from renowned institutes with Arivu's comprehensive education solutions. Arivu provides access to globally recognized institutions, ensuring students receive quality education and gain valuable qualifications for their future careers.",
-    "Arivu unlocks access to prestigious educational institutions, elevating your academic journey to new heights. With Arivu, you can explore a world of educational opportunities, expanding your knowledge and skills in various fields.",
-    "Experience dynamic online classes on Arivu's intuitive platform, tailored to modern learners' needs. Arivu's user-friendly interface and interactive features make online learning engaging and effective, helping students succeed in today's digital age.",
-    "Access meticulously crafted study notes on Arivu to enhance your understanding and retention of course materials. Arivu's comprehensive study resources empower students to excel in their studies and gain a deeper understanding of their subjects.",
-    "Arivu is your gateway to a successful career, offering the knowledge and skills needed for professional excellence. With Arivu, you can prepare for a bright future and achieve your career goals through high-quality education and training."
+    "Learn,Infino encourages collaborative group studies, creating a vibrant learning environment where students can connect and learn together. It offers a versatile platform for educators to share their knowledge, helping students excel academically.",
+    "Secure your course from Infinio Technology Solutions with Learn.Infinio comprehensive education solutions. Learn.Infinio provides access to globally recognized institutions, ensuring students receive quality education and gain valuable qualifications for their future careers.",
+    "Learn.Infinio unlocks access to prestigious educational institutions, elevating your academic journey to new heights. With Learn.Infinio, you can explore a world of educational opportunities, expanding your knowledge and skills in various fields.",
+    "Experience dynamic online classes on Learn.Infinio's intuitive platform, tailored to modern learners' needs. Learn.Infinio's user-friendly interface and interactive features make online learning engaging and effective, helping students succeed in today's digital age.",
+    "Access meticulously crafted study notes on Learn.Infinio to enhance your understanding and retention of course materials. Learn.Infinio's comprehensive study resources empower students to excel in their studies and gain a deeper understanding of their subjects.",
+    "Learn.Infinio is your gateway to a successful career, offering the knowledge and skills needed for professional excellence. With Learn.Infinio, you can prepare for a bright future and achieve your career goals through high-quality education and training."
   ];
   
   
