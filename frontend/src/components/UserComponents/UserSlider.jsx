@@ -26,7 +26,7 @@ const UserSlider = () => {
 
   const textOnImage = [
     "Group Studies",
-    "Degree from Recognized Institutes",
+    "Gamifications",
     "Prestigious Institutions",
     "Online Classes",
     "Study Notes",

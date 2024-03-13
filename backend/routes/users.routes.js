@@ -79,14 +79,14 @@ userRouter.post("/login", async (req, res) => {
 
         const token = jwt.sign(
           { userId: user._id, user: user.name, role: user.role },
-          "arivu",
+          "learn.infinio",
           {
             expiresIn: "7d",
           }
         );
         const rToken = jwt.sign(
           { userId: user._id, user: user.name },
-          "ARIVU",
+          "LEARN.INFINIO",
           {
             expiresIn: "24d",
           }

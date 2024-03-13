@@ -25,7 +25,7 @@ app.use("/videos", videoRoute);
 
 app.get("/regenerateToken", (req, res) => {
   const rToken = req.headers.authorization?.split(" ")[1];
-  const decoded = jwt.verify(rToken, "ARIVU");
+  const decoded = jwt.verify(rToken, "Learn.Inifnio");
 
   if (decoded) {
     const token = jwt.sign(
@@ -43,7 +43,7 @@ app.get("/regenerateToken", (req, res) => {
 
 app.get('/',(req,res)=>{
   try{
-    res.status(200).json({message:"Welcome to Arivu's Backend"})
+    res.status(200).json({message:"Welcome to Learn.infinio's Backend"})
   }catch(err){
     res.status(400).json({ message: "Some Error Occur. Please Refresh" });
   }
