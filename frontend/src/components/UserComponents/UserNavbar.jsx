@@ -70,44 +70,7 @@ const Navbar = () => {
           </Box>
         </Flex>
 
-        {!isMobile ? (
-          <Flex align="center">
-            <Box>
-              {/* Search Bar */}
-              <Input
-                type="text"
-                variant="filled"
-                border="1px solid black"
-                fontSize="0.7rem"
-                m="0 2rem"
-                color="black"
-                placeholder="What do you want to learn?"
-                borderRadius="10px 0 0px 10px"
-                _placeholder={{ color: "#555454", letterSpacing: "1px" }}
-              />
-            </Box>
-            <IconButton
-              aria-label="Search"
-              icon={<FaSearch />}
-              bg="#0056d2"
-              color="white"
-              borderRightRadius="7px"
-              borderRadius="0px 10px 10px 0px"
-            />
-          </Flex>
-        ) : (
-          <Flex align="center">
-            <IconButton
-              aria-label="Menu"
-              icon={<FaBars />}
-              bg="transparent"
-              color="#0056d2"
-              fontSize="2xl"
-              mr={2}
-              onClick={onOpen}
-            />
-          </Flex>
-        )}
+        
         {/* small screen search bar and icon  */}
         {isMobile &&
           location.pathname ==
