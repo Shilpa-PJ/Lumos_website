@@ -24,7 +24,7 @@ const Section5 = () => {
           }}
           fontWeight={"semibold"}
         >
-          Explore Our Courses
+          {/* Explore Our Courses */}
         </Text>
       </Flex>
       <Flex>
@@ -44,7 +44,7 @@ const Section5 = () => {
             xl: "6",
           }}
         >
-          <Flex
+          {/* <Flex
             w="100%"
             h="20"
             gap={2}
@@ -76,8 +76,8 @@ const Section5 = () => {
                 4 Courses
               </Text>
             </Flex>
-          </Flex>
-          <Flex
+          </Flex> */}
+          {/* <Flex
             w="100%"
             h="20"
             gap={2}
@@ -108,8 +108,8 @@ const Section5 = () => {
                 2 Courses
               </Text>
             </Flex>
-          </Flex>
-          <Flex
+          </Flex> */}
+          {/* <Flex
             w="100%"
             h="20"
             gap={2}
@@ -140,8 +140,8 @@ const Section5 = () => {
                 1 Courses
               </Text>
             </Flex>
-          </Flex>
-          <Flex
+          </Flex> */}
+          {/* <Flex
             w="100%"
             h="20"
             gap={2}
@@ -172,8 +172,8 @@ const Section5 = () => {
                 Internship Program
               </Text>
             </Flex>
-          </Flex>
-          <Flex
+          </Flex> */}
+          {/* <Flex
             w="100%"
             h="20"
             gap={2}
@@ -204,8 +204,8 @@ const Section5 = () => {
                 Al Ameen Edathala
               </Text>
             </Flex>
-          </Flex>
-          <Flex
+          </Flex> */}
+          {/* <Flex
             w="100%"
             h="20"
             gap={2}
@@ -236,8 +236,8 @@ const Section5 = () => {
                 Adi Sankara - May 2023
               </Text>
             </Flex>
-          </Flex>
-          <Flex
+          </Flex> */}
+          {/* <Flex
             w="100%"
             h="20"
             gap={2}
@@ -268,8 +268,8 @@ const Section5 = () => {
                 1 Course
               </Text>
             </Flex>
-          </Flex>
-          <Flex
+          </Flex> */}
+          {/* <Flex
             w="100%"
             h="20"
             gap={2}
@@ -300,8 +300,8 @@ const Section5 = () => {
                 BBA 2022 Batch
               </Text>
             </Flex>
-          </Flex>
-          <Flex
+          </Flex> */}
+          {/* <Flex
             w="100%"
             h="20"
             gap={2}
@@ -332,8 +332,8 @@ const Section5 = () => {
                 BBA 2023 Batch
               </Text>
             </Flex>
-          </Flex>
-          <Flex
+          </Flex> */}
+          {/* <Flex
             w="100%"
             h="20"
             gap={2}
@@ -364,7 +364,7 @@ const Section5 = () => {
                 1 Course
               </Text>
             </Flex>
-          </Flex>
+          </Flex> */}
           {/* <Flex
             w="100%"
             h="20"
