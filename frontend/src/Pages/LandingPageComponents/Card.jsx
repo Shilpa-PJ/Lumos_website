@@ -1,6 +1,7 @@
 import { Box, Flex, Image, Text } from "@chakra-ui/react";
 import { FaGraduationCap } from "react-icons/fa";
 import { Link } from "react-router-dom";
+
 const Card = ({ course, title, category, description, _id,img }) => {
   const image = [
     "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/ddp/branding/mba-macquarie/thumbnail.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=204&fit=crop&q=50",
