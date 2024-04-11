@@ -126,23 +126,23 @@ const Login = () => {
               <GoogleAuth />
             </Flex>
             {/* facebook bar     */}
-            <Flex border="1px solid" p="15px" align="center" m="5px 0">
+            {/* <Flex border="1px solid" p="15px" align="center" m="5px 0">
               <Box>
                 <BsFacebook size="28px" color="#4267B2" />
               </Box>
               <Box ml="15px">
                 <Heading size="xs">Continue with Facebook</Heading>
               </Box>
-            </Flex>
+            </Flex> */}
             {/* apple bar  */}
-            <Flex border="1px solid" p="15px" align="center" m="5px 0">
+            {/* <Flex border="1px solid" p="15px" align="center" m="5px 0">
               <Box>
                 <DiApple size="35px" />
               </Box>
               <Box ml="15px">
                 <Heading size="xs">Continue with Apple</Heading>
               </Box>
-            </Flex>
+            </Flex> */}
             {/* email  */}
             <Box
               border="1px solid"
