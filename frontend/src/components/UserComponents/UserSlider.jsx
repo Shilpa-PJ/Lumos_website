@@ -14,9 +14,9 @@ import {
 import React, { useEffect, useState } from "react";
 import { ArrowLeftIcon, ArrowRightIcon } from "@chakra-ui/icons";
 
-import nilgiri from 'C:/Users/anjim/Documents/GitHub/Lumos_website/frontend/src/asset/images/nilgiri.png';
-import nilgiri2 from 'C:/Users/anjim/Documents/GitHub/Lumos_website/frontend/src/asset/images/nilgiri2.png';
-import bot from 'C:/Users/anjim/Documents/GitHub/Lumos_website/frontend/src/asset/images/bot.jpg';
+import nilgiri from '../../../src/asset/images/nilgiri.png';
+import nilgiri2 from '../../../src/asset/images/nilgiri2.png';
+import bot from '../../../src/asset/images/bot.jpg';
 const UserSlider = () => {
   const images = [  nilgiri, nilgiri2,bot,
     "https://images.pexels.com/photos/5212653/pexels-photo-5212653.jpeg?cs=srgb&dl=pexels-max-fischer-5212653.jpg&fm=jpg",
