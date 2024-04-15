@@ -4,6 +4,8 @@ const { auth } = require("../middlewares/users.middleware");
 const { UserModel } = require("../models/users.models.js");
 
 const courseRoute = express.Router();
+db.users.findOne({ role: 'admin' });
+
 
 
 
