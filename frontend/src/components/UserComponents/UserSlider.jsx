@@ -13,21 +13,25 @@ import {
 } from "@chakra-ui/react";
 import React, { useEffect, useState } from "react";
 import { ArrowLeftIcon, ArrowRightIcon } from "@chakra-ui/icons";
+
+import nilgiri from 'C:/Users/anjim/Documents/GitHub/Lumos_website/frontend/src/asset/images/nilgiri.png';
+import nilgiri2 from 'C:/Users/anjim/Documents/GitHub/Lumos_website/frontend/src/asset/images/nilgiri2.png';
+import bot from 'C:/Users/anjim/Documents/GitHub/Lumos_website/frontend/src/asset/images/bot.jpg';
 const UserSlider = () => {
-  const images = [
+  const images = [  nilgiri, nilgiri2,bot,
     "https://images.pexels.com/photos/5212653/pexels-photo-5212653.jpeg?cs=srgb&dl=pexels-max-fischer-5212653.jpg&fm=jpg",
-    "https://www.mit.edu/files/images/201807/15656704711_00457bd2c9_b_1.jpg",
-    "https://inup.iitkgp.ac.in/images/iit_kgp.jpg",
-    "https://www.vedantu.com/seo/content-images/33e42c38-8332-4d51-9dcf-65a4f262b5da.png",
+    // "https://www.mit.edu/files/images/201807/15656704711_00457bd2c9_b_1.jpg",
+    // "https://inup.iitkgp.ac.in/images/iit_kgp.jpg",
+    // "https://www.vedantu.com/seo/content-images/33e42c38-8332-4d51-9dcf-65a4f262b5da.png",
     "https://media.wired.com/photos/6365b7166776a0176c76e4de/master/w_2560%2Cc_limit/All-the-Free-Resources-You-Can-Find-at-Your-Library-Gear-GettyImages-1331816640.jpg",
     "https://images.seattleschild.com/wp-content/uploads/2021/09/Classy-Treehouse-w-logo-e1632341660272.png" ,
     
   ];
 
   const textOnImage = [
-    "Group Studies",
-    "Gamifications",
     "Prestigious Institutions",
+    "Group Studies",
+    "Chatbot",
     "Online Classes",
     "Study Notes",
     "Successful Career",
