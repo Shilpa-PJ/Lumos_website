@@ -190,7 +190,7 @@ export function NavBarDrawer({ isOpen, onClose }) {
                       Your Account
                     </Text>
                   </Link>
-                  <Link to="/arivu">
+                  <Link to="/learn">
                     <Text
                       fontSize="0.8rem" p="1rem 0"
                     >
@@ -269,7 +269,7 @@ export function NavBarDrawer({ isOpen, onClose }) {
                   </Flex>
                 </Link>
 
-                <Link to="/arivu">
+                <Link to="/learn">
                   <Flex alignItems={"center"} justify="space-between">
                     <Text fontSize="0.8rem" p="1rem 0">
                       Dashboard

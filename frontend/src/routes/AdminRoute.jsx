@@ -32,5 +32,5 @@ export const AdminRoute = ({ children }) => {
       </>
     );
   }
-  return <Navigate to="/arivu" />;
+  return <Navigate to="/learn" />;
 };

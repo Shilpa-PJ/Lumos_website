@@ -30,7 +30,7 @@ app.get("/regenerateToken", (req, res) => {
   if (decoded) {
     const token = jwt.sign(
       { userId: decoded.userId, user: decoded.user },
-      "arivu",
+      "learn",
       {
         expiresIn: "7d",
       }

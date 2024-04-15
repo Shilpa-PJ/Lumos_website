@@ -91,7 +91,7 @@ const Login = () => {
 
   if (userStore.isAuth) {
     if(userStore?.role==='user'){
-      navigate("/arivu");
+      navigate("/learn");
     }else if(userStore?.role == "admin" || userStore?.role=='teacher'){
       navigate("/admin/dashboard");
     }

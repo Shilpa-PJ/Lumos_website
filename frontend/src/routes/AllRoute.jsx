@@ -77,7 +77,7 @@ const AllRoute = () => {
         }
       />
       <Route
-        path="/arivu"
+        path="/learn"
         element={
           <PrivateRoutes>
             <UserDashboard />

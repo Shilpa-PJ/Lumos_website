@@ -26,12 +26,12 @@ const Navbar = () => {
   const toast = useToast();
   const location = useLocation();
   function home() {
-    navigate("/arivu");
+    navigate("/learn");
   }
 
   function handleShowSearchBar() {
     setShowSearchBar(!showSearchBar);
-    if (showSearchBar && location.pathname == "/arivu") {
+    if (showSearchBar && location.pathname == "/learn") {
       showToast({
         toast,
         message: `Below is you search Result`,
@@ -74,7 +74,7 @@ const Navbar = () => {
         {/* small screen search bar and icon  */}
         {isMobile &&
           location.pathname ==
-            "/arivu" &&(
+            "/learn" &&(
               <Box>
                 {showSearchBar ? (
                   <Flex align="center">

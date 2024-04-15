@@ -135,7 +135,7 @@ const Dropdown = () => {
                   Your Account
                 </MenuItem>
 
-                <Link to="/arivu">
+                <Link to="/learn">
                   <MenuItem
                     p="0.7rem 0"
                     fontWeight="500"
@@ -159,7 +159,7 @@ const Dropdown = () => {
                     Your Account
                   </MenuItem>
                 </Link>
-                <Link to="/arivu">
+                <Link to="/learn">
                   <MenuItem
                     p="0.7rem 0"
                     fontWeight="500"

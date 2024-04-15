@@ -8,7 +8,7 @@ const auth = (req, res, next) => {
       if (blacklist.includes(token)) {
         res.json({ msg: "Please Login Again" });
       }
-      const decoded = jwt.verify(token, "arivu");
+      const decoded = jwt.verify(token, "learn");
       if (decoded) {
         req.body.username = decoded.user;
         req.body.userId = decoded.userId;

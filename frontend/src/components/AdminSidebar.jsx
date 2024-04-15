@@ -79,7 +79,7 @@ const AdminSidebar = () => {
           <Link to="/admin/dashboard">
             <Box p={2}>Admin Dashboard</Box>
           </Link>
-          <Link to="/arivu">
+          <Link to="/learn">
             <Box p={2}>User Dashboard</Box>
           </Link>
           <Link to="/admin/courses">
