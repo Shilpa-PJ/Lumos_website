@@ -21,7 +21,7 @@ const CourseComponent = () => {
         <Heading as="h2" size="lg">
           In Progress Courses
         </Heading>
-        <a href="http://localhost:8501/" target="_blank" rel="noopener noreferrer">
+        <a href="http://localhost:8502/" target="_blank" rel="noopener noreferrer">
         <FontAwesomeIcon icon={faRobot} style={{ marginRight: '5px' }} />
       <b>Ask question to ChatBot</b>
     </a>
